@@ -7,11 +7,6 @@ The app helps users take better care of their health by managing medicines, sche
 	•	📊 Health Tracking – Track health-related activities and progress
 	•	📅 Calendar Integration – View and manage schedules easily
 	•	🔔 Notifications – Receive timely reminders
-	•	🤖 AI Symptom Checker – Enter symptoms and get instant AI-driven insights
-
-## Getting Started
-
-1. Run `npm install`
-2. Run `npm run dev`
+	•	🤖 AI Symptom Checker – Enter symptoms and get instant AI-driven insights.
 
 check it out : https://health-mate-ismy.vercel.app
