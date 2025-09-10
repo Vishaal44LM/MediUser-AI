@@ -9,4 +9,4 @@ A simple yet powerful Health Assistant application
 	•	🔔 Notifications – Receive timely reminders
 	•	🤖 AI Symptom Checker – Enter symptoms and get instant AI-driven insights.
 
-check it out : https://health-mate-ismy.vercel.app
+Live at : https://health-mate-ismy.vercel.app
