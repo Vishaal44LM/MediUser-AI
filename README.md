@@ -13,4 +13,4 @@ The app helps users manage their health by keeping track of medicines, activitie
 1. Run `npm install`
 2. Run `npm run dev`
 
-check it out at : https://health-mate-ismy.vercel.app
+check it out : https://health-mate-ismy.vercel.app
