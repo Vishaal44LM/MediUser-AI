@@ -1,5 +1,5 @@
 A simple yet powerful Health Assistant application
-The app helps users take better care of their health by managing medicines, schedules, and now also checking symptoms with AI.
+,The app helps users take better care of their health by managing medicines, schedules, and now also checking symptoms with AI.
 
 ✨ Features
 	•	🔑 User Accounts – Create accounts and log in securely
