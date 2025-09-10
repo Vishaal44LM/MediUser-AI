@@ -1,12 +1,5 @@
-A simple yet powerful Health Assistant application
-,The app helps users take better care of their health by managing medicines, schedules, and now also checking symptoms with AI.
+A simple yet powerful AI driven Health Assistant application
+,The app helps users take better care of their health by managing medicines, schedules, and also checking symptoms with AI.
 
-✨ Features
-	•	🔑 User Accounts – Create accounts and log in securely
-	•	💊 Medicine Reminders – Set and manage medicine schedules
-	•	📊 Health Tracking – Track health-related activities and progress
-	•	📅 Calendar Integration – View and manage schedules easily
-	•	🔔 Notifications – Receive timely reminders
-	•	🤖 AI Symptom Checker – Enter symptoms and get instant AI-driven insights.
 
 Live at : https://health-mate-ismy.vercel.app
